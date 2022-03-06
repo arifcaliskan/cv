@@ -75,9 +75,7 @@
   % Not all of these are required!
   \email{arif.caliskan@agu.edu.tr}
   \phone{+90 536 065 0585}
-  \mailaddress{AGU Student Village 10/3}
   \location{Kayseri, Turkey}
-  \twitter{arifvibritannia}
   \linkedin{arifcaliskan}
   \github{arifcaliskan}
   %% You can add your own arbitrary detail with
@@ -195,7 +193,7 @@ mounted equipments such as firefighting vehicles, mobile crane, hook lift
 
 \cvsection{Projects}
 
-\cvevent{TEKNOFEST'22}{Jet Motor Design Competition(Ongoing)}{}{}
+\cvevent{TEKNOFEST'22}{Jet Motor Design Competition (Ongoing)}{}{}
 I and my friend are signed for this competition in Turkey, with our TA M. Fazil Kapci. As of now we are reviewing literature.
 
 \divider
@@ -203,7 +201,7 @@ I and my friend are signed for this competition in Turkey, with our TA M. Fazil 
 I used RC522 modul for scanning the data inside an RFID tag and copy and paste the information into a blank and rewritable tag.
 
 \divider
-\cvevent{SPEED REDUCER(12:1 RATIO)}{Solidworks-Ansys}{}{}
+\cvevent{SPEED REDUCER (12:1 RATIO)}{Solidworks-Ansys}{}{}
 We as a group, determined the diameter of shafts, number of teeths, the thicknesses of gears and their ratios and drew and assemble them with Solidworks and Fusion360 and conduct the stress, fatigue and deformation analysis with Matlab. I was responsible for determining materials and drawing part.
 
 \divider
@@ -217,6 +215,12 @@ As undergrad research, I wrote an article concerning the materials used in nucle
 
 \medskip
 
+\cvsection{Certificates}
+
+\cvevent{ELS Milwaukee Participant}{}{}{}
+I've spent 1 month in Milwaukee, WI in USA, during which I stayed with an American family and succesfully completed level 109.
+
+\medskip
 \end{paracol}
 
 \end{document}
