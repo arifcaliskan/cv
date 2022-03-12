@@ -110,7 +110,7 @@
 \begin{paracol}{2}
 \cvsection{Education}
 
-\cvevent{B.Sc.\ Mechanical Engineering}{Abdullah GUL University}{2017 -- 2023 (ongoing)}{}
+\cvevent{B.Sc.\ Mechanical Engineering (100\% English)}{Abdullah GUL University}{2018 -- 2023 (ongoing)}{}
 
 
 \cvsection{Experience}
@@ -125,13 +125,14 @@ mounted equipments such as firefighting vehicles, mobile crane, hook lift
 %%\divider
 \cvsection{Skills}
 
-\cvtag{MS Office}
-\cvtag{Solidworks}\\
+
+\cvtag{Solidworks}
 \cvtag{Ansys}
 \cvtag{Fusion360}
 \cvtag{CATIA (still learning)}\\
 \cvtag{Matlab}
 \cvtag{AutoCAD}
+\cvtag{MS Office}
 
 \cvsection{Languages}
 
@@ -198,16 +199,16 @@ I and my friend are signed for this competition in Turkey, with our TA M. Fazil 
 
 \divider
 \cvevent{RFID CLONER}{Arduino}{}{}
-I used RC522 modul for scanning the data inside an RFID tag and copy and paste the information into a blank and rewritable tag.
+I used RC522 module for scanning the data inside an RFID tag and copy and paste the information into a blank and rewritable tag.
 
 \divider
 \cvevent{SPEED REDUCER (12:1 RATIO)}{Solidworks-Ansys}{}{}
-We as a group, determined the diameter of shafts, number of teeths, the thicknesses of gears and their ratios and drew and assemble them with Solidworks and Fusion360 and conduct the stress, fatigue and deformation analysis with Matlab. I was responsible for determining materials and drawing part.
+We as a group, determined the diameter of shafts, number of teeths, the thicknesses of gears and their ratios and drew and assemble them with Solidworks and Fusion360 and conduct the stress, fatigue and deformation analysis with Matlab. I was responsible for determining materials, drawing also some parts of the analysis.
 
 \divider
 
 \cvevent{AIRFLOW THROUGH A NOZZLE}{Ansys-Fluent}{}{}
-Using matlab, conducted the analysis of flow of air inside as well as the at the exit of nozzle.
+Using matlab, conducted the analysis of flow of air inside and at the exit of nozzle.
 
 \divider
 \cvevent{MATERIALS USED IN NUCLEAR FUSION ENERGY PRODUCTION}{Article}{}{}
