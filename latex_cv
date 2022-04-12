@@ -110,7 +110,7 @@
 \begin{paracol}{2}
 \cvsection{Education}
 
-\cvevent{B.Sc.\ Mechanical Engineering (100\% English)}{Abdullah GUL University}{2018 -- 2023 (ongoing)}{}
+\cvevent{B.Sc.\ Mechanical Engineering}{Abdullah GUL University}{2017 -- 2023 (ongoing)}{}
 
 
 \cvsection{Experience}
@@ -125,20 +125,21 @@ mounted equipments such as firefighting vehicles, mobile crane, hook lift
 %%\divider
 \cvsection{Skills}
 
-
+\cvtag{MS Office}
 \cvtag{Solidworks}
 \cvtag{Ansys}
-\cvtag{Fusion360}
-\cvtag{CATIA (still learning)}\\
+\cvtag{Fusion360}\\
+\cvtag{CATIA (still learning)}
 \cvtag{Matlab}
-\cvtag{AutoCAD}
-\cvtag{MS Office}
+\cvtag{AutoCAD}\\
+\cvtag{Xflr5}
+\cvtag{Msc Adams}
 
 \cvsection{Languages}
 
 \cvskill{English}{5}
 \cvskill{Turkish (Mother Tongue)}{5}
-\cvskill{German}{1.5} %% Supports X.5 values.
+\cvskill{German}{1} %% Supports X.5 values.
 
 %% Yeah I didn't spend too much time making all the
 %% spacing consistent... sorry. Use \smallskip, \medskip,
@@ -194,21 +195,18 @@ mounted equipments such as firefighting vehicles, mobile crane, hook lift
 
 \cvsection{Projects}
 
-\cvevent{TEKNOFEST'22}{Jet Motor Design Competition (Ongoing)}{}{}
-I and my friend are signed for this competition in Turkey, with our TA M. Fazil Kapci. As of now we are reviewing literature.
 
-\divider
 \cvevent{RFID CLONER}{Arduino}{}{}
-I used RC522 module for scanning the data inside an RFID tag and copy and paste the information into a blank and rewritable tag.
+I used RC522 modul for scanning the data inside an RFID tag and copy and paste the information into a blank and rewritable tag.
 
 \divider
 \cvevent{SPEED REDUCER (12:1 RATIO)}{Solidworks-Ansys}{}{}
-We as a group, determined the diameter of shafts, number of teeths, the thicknesses of gears and their ratios and drew and assemble them with Solidworks and Fusion360 and conduct the stress, fatigue and deformation analysis with Matlab. I was responsible for determining materials, drawing also some parts of the analysis.
+We as a group, determined the diameter of shafts, number of teeths, the thicknesses of gears and their ratios and drew and assemble them with Solidworks and Fusion360 and conduct the stress, fatigue and deformation analysis with Matlab. I was responsible for determining materials and drawing part.
 
 \divider
 
 \cvevent{AIRFLOW THROUGH A NOZZLE}{Ansys-Fluent}{}{}
-Using matlab, conducted the analysis of flow of air inside and at the exit of nozzle.
+Using matlab, conducted the analysis of flow of air inside as well as the at the exit of nozzle.
 
 \divider
 \cvevent{MATERIALS USED IN NUCLEAR FUSION ENERGY PRODUCTION}{Article}{}{}
@@ -220,6 +218,16 @@ As undergrad research, I wrote an article concerning the materials used in nucle
 
 \cvevent{ELS Milwaukee Participant}{}{}{}
 I've spent 1 month in Milwaukee, WI in USA, during which I stayed with an American family and succesfully completed level 109.
+
+
+\cvevent{SolidWorks - Complete Course}{}{}{}
+
+
+\cvevent{Xflr5 - Getting Ready for TeknoFest}{}{}{}
+
+
+\cvevent{Python - Zero to Advance Programming}{}{}{}
+
 
 \medskip
 \end{paracol}
